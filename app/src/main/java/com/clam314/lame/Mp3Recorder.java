@@ -13,6 +13,8 @@ import android.media.MediaRecorder;
 import android.os.Message;
 import android.util.Log;
 
+import com.enter.enterlame.SimpleLame;
+
 /**
  * Created by clam314 on 2017/3/26.
  *

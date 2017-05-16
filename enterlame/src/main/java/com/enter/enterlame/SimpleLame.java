@@ -1,4 +1,4 @@
-package com.clam314.lame;
+package com.enter.enterlame;
 
 /**
  * Created by clam314 on 2017/3/26
