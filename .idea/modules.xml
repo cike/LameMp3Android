@@ -4,7 +4,6 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/LameMp3ForAndroid.iml" filepath="$PROJECT_DIR$/LameMp3ForAndroid.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/enterlame/enterlame.iml" filepath="$PROJECT_DIR$/enterlame/enterlame.iml" />
     </modules>
   </component>
 </project>

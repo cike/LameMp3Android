@@ -26,10 +26,6 @@ public class Mp3Recorder {
 
     private static final String TAG = Mp3Recorder.class.getSimpleName();
 
-    static {
-        System.loadLibrary("lamemp3");
-    }
-
     //默认采样率
     private static final int DEFAULT_SAMPLING_RATE = 44100;
 

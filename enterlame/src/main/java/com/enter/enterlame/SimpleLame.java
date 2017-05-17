@@ -6,6 +6,10 @@ package com.enter.enterlame;
 
 public class SimpleLame {
 
+    static {
+        System.loadLibrary("lamemp3");
+    }
+
     public native static void close();
 
     public native static int encode(short[] buffer_l, short[] buffer_r, int samples, byte[] mp3buf);
